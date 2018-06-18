@@ -1,1 +1,1 @@
-var playlist
+var playlist = { PinkFloyd: "The Wall"}
