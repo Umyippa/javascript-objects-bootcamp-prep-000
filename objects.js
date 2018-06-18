@@ -7,6 +7,6 @@ function updatePlaylist(playlist, [artistName], [songTitle]) {
 }
 
 function removeFromPlayList(playlist, [artistName]) {
-  delete playlist.Slowdive = "Alison";
+  delete playlist.Slowdive ;
   return playlist;
 }
